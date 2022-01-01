@@ -1,41 +1,43 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0000/e91a4dcce3",
+        "cast_branch": "CVRs/0001/2d3fdc5222",
         "choices": [
             {
-                "name": "Circle Party Ticket",
-                "ticket_names": [
-                    "Rey Skywalker",
-                    "Obi-Wan Kenobi"
-                ]
+                "name": "Anthony Alpha",
+                "party": "Circle Party"
             },
             {
-                "name": "Square Party Ticket",
-                "ticket_names": [
-                    "Atticus Finch",
-                    "Hermione  Granger"
-                ]
+                "name": "Betty Beta",
+                "party": "Pentagon Party"
             },
             {
-                "name": "Triangle Party Ticket",
-                "ticket_names": [
-                    "Evelyn Quan Wang",
-                    "Waymond Wang"
-                ]
+                "name": "Gloria Gamma",
+                "party": "Square Party"
+            },
+            {
+                "name": "David Delta",
+                "party": "Triangle Party"
+            },
+            {
+                "name": "Emily Echo",
+                "party": "Ellipse Party"
+            },
+            {
+                "name": "Francis Foxtrot",
+                "party": "Octagon Party"
             }
         ],
-        "contest_type": "ticket",
         "ggo": "GGOs/states/Massachusetts",
-        "name": "US president",
+        "name": "US senate",
         "selection": [
-            "0: Circle Party Ticket",
-            "1: Square Party Ticket"
+            "2: Gloria Gamma",
+            "5: Francis Foxtrot",
+            "3: David Delta",
+            "1: Betty Beta",
+            "0: Anthony Alpha",
+            "4: Emily Echo"
         ],
         "tally": "rcv",
-        "ticket_offices": [
-            "President",
-            "Vice President"
-        ],
-        "uid": "0000"
+        "uid": "0001"
     }
 }
