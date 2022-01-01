@@ -1,38 +1,16 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0000/e34aac99fd",
+        "cast_branch": "CVRs/0003/83a719a983",
         "choices": [
-            {
-                "name": "Circle Party Ticket",
-                "ticket_names": [
-                    "Rey Skywalker",
-                    "Obi-Wan Kenobi"
-                ]
-            },
-            {
-                "name": "Square Party Ticket",
-                "ticket_names": [
-                    "Atticus Finch",
-                    "Hermione  Granger"
-                ]
-            },
-            {
-                "name": "Triangle Party Ticket",
-                "ticket_names": [
-                    "Evelyn Quan Wang",
-                    "Waymond Wang"
-                ]
-            }
+            "Jean-Luc Picard",
+            "Katniss Everdeen",
+            "James T. Kirk"
         ],
-        "contest_type": "ticket",
-        "ggo": "GGOs/states/Massachusetts",
-        "name": "US president",
+        "ggo": "GGOs/states/Massachusetts/GGOs/counties/Middlesex",
+        "max": 1,
+        "name": "County Clerk",
         "selection": [],
-        "tally": "rcv",
-        "ticket_offices": [
-            "President",
-            "Vice President"
-        ],
-        "uid": "0000"
+        "tally": "plurality",
+        "uid": "0003"
     }
 }
