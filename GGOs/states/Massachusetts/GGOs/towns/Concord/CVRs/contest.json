@@ -1,39 +1,23 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0001/692c09af91",
+        "cast_branch": "CVRs/0002/619d0d43d5",
         "choices": [
             {
-                "name": "Anthony Alpha",
+                "name": "Spencer Cogswell",
                 "party": "Circle Party"
             },
             {
-                "name": "Betty Beta",
-                "party": "Pentagon Party"
-            },
-            {
-                "name": "Gloria Gamma",
-                "party": "Square Party"
-            },
-            {
-                "name": "David Delta",
+                "name": "Cosmo Spacely",
                 "party": "Triangle Party"
-            },
-            {
-                "name": "Emily Echo",
-                "party": "Ellipse Party"
-            },
-            {
-                "name": "Francis Foxtrot",
-                "party": "Octagon Party"
             }
         ],
         "ggo": "GGOs/states/Massachusetts",
-        "name": "US senate",
+        "max": 1,
+        "name": "governor",
         "selection": [
-            "5: Francis Foxtrot",
-            "4: Emily Echo"
+            "0: Spencer Cogswell"
         ],
-        "tally": "rcv",
-        "uid": "0001"
+        "tally": "plurality",
+        "uid": "0002"
     }
 }
